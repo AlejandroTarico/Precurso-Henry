@@ -1,2 +1,1 @@
-# Precurso-Henry
-Este es un repositorio de prueba del modulo 2 de Henry
+Este proyecto es una prueba de como crear un repositorio desde Github a mi computadora
